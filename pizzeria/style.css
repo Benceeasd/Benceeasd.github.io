@@ -2,6 +2,7 @@ body{
     background-image: url("pizza1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
 main{
     background-color: rgba(255, 255, 255, 0.795);
@@ -44,15 +45,10 @@ nav ul li a:hover {
     color: #f39c12;
 }
 
-.peppizza {
-    height: 225px;
+#menu img{
+    height: 300px;
 }
 
-.veget {
-    height: 500px;
-}
-
-.Margherita {
-    height: 200px;
-
+#rolunk img{
+    height: 400px;
 }
